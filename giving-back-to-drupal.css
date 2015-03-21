@@ -1,0 +1,35 @@
+
+.reveal h1 {
+  font-size: 2.25em;
+}
+
+.reveal h2 {
+  font-size: 2em;
+}
+
+.reveal h1.nowrap,
+.reveal h2.nowrap,
+.reveal h3.nowrap  {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  hyphens: none;
+}
+
+.nomargin {margin: 0;}
+
+.session__presenter,
+.presenter h3,
+.feedback h3 {
+  text-transform: none;
+}
+
+.session__presenter {
+  font-size: 1.1em;
+}
+
+.tea-party img {float: right;}
+
+.reveal .quote {
+  font-style: italic;
+  padding-left: 5em;
+}
